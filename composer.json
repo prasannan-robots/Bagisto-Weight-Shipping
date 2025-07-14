@@ -1,7 +1,7 @@
 {
     "name": "prasanna/bagisto-weight-shipping",
     "type": "bagisto-package",
-    "version": "2.0.2",
+    "version": "0.0.2",
     "description": "Weight based shipping package for Bagisto - Calculate shipping costs based on total cart weight",
     "keywords": ["bagisto", "laravel", "php", "weight-based", "shipping", "ecommerce"],
     "homepage": "https://github.com/prasanna/bagisto-weight-shipping",
