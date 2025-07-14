@@ -1,0 +1,13 @@
+vendor/
+composer.lock
+.DS_Store
+.idea/
+.vscode/
+*.log
+.env
+.env.backup
+.env.production
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
